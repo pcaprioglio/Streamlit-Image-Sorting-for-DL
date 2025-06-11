@@ -1,4 +1,5 @@
-# Image-visualizer-app
+# Streamlit-Image-Sorting-for-DL
+
 An intuitive Streamlit application tailored for deep learning practitioners, offering powerful tools to visualize, sort, and explore large image datasets with ease. Designed with flexibility in mind, the app supports high-resolution TIFF files and provides advanced options for image rescaling, color mapping, and cropping.
 
 On the sidebar of the app your are reuired to provoide as input either:
