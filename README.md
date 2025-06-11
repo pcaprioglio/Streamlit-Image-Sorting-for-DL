@@ -31,7 +31,7 @@ I packeged the project in UV (reccomended use). So if you have UV installed (if 
 1) uv sync
 2) uv run streamlit run app.py
 
-if you're using conda or any other environment be sure to have all the packages listed in the pyproject.toml file installed and then just run:
+If you're using conda or any other environment be sure to have all the packages listed in the pyproject.toml file installed and then just run:
 streamlit run app.py
 
 NOTE: Since I was working with large images, the displayed images are by default resized to 500x500 px. If you want to change the resize value you can do that in the functions.py file by modifying the argument of the functions: plot_image and visualize inside the ImageVisualizer class. 
