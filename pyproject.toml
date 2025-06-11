@@ -1,0 +1,15 @@
+[project]
+name = "image-visualizer-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "matplotlib>=3.9.4",
+    "natsort>=8.4.0",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.0",
+    "pillow>=11.2.1",
+    "scikit-image>=0.24.0",
+    "streamlit>=1.45.1",
+]
