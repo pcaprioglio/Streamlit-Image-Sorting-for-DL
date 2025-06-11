@@ -24,7 +24,7 @@ You have now the possibility to display, group and sort all images per class (or
 
 You can additionally crop, rescale and plots the images as heatmaps choosing between different colors. Once your happy with your modifications, you can conveniently save the modified images in a new folder while keeping the same subfolder structure where images are sorted by class. 
 
-![alt text](https://github.com/pcaprioglio/Streamlit-Image-Sorting-for-DL/blob/main/examples/app_example.png))
+![alt text](https://github.com/pcaprioglio/Streamlit-Image-Sorting-for-DL/blob/main/examples/app_example.png)
 
 
 I packeged the project in UV (reccomended use). So if you have UV installed (if not do it!!) you can simply run:
